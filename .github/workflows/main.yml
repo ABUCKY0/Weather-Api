@@ -1,2 +1,1 @@
-run: |
-./scripts/main.py
+run: ./scripts/main.py
